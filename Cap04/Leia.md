@@ -1,1 +1,1 @@
-Material que faz referência ao tratamento de arquivos (bibliotecas), módulos, pacotes e built-in
+Material que faz referência ao tratamento de arquivos, módulos, pacotes e built-in
